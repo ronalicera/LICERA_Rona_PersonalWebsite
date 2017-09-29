@@ -89,3 +89,6 @@ body{
 #mail a:hover{
     color: white;
 }
+.left{
+    float: left;
+}
