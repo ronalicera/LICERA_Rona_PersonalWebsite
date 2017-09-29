@@ -70,3 +70,13 @@ body{
     font-size: 2em;
     padding: 5px;
 }
+#footer{
+    text-align: center;
+    background: url(images/gray.jpg);
+    border-radius: 20px;
+    clear: both;
+    margin-top: 10px;
+    margin-right: 40px;
+    margin-left: 40px;
+
+}
