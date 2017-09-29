@@ -33,3 +33,7 @@ body{
     text-decoration: none;
     padding: 10px;
 }
+#nav_wrapper ul li:hover{
+    background:grey;
+    transition: all 0.45s;
+}
