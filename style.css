@@ -132,3 +132,15 @@ p{
     font-family: serif;
     font-size: 120%;
 } 
+th, td {
+     padding: 5px 10px 5px 5px;    
+     border-spacing: 50px;    
+     font-size: 100%;    
+     margin: 50px;
+}   
+th, td {    
+    text-align:center;
+    background-color: #e0e9f0;    
+    border-top: 5px solid #f1f8fe;    
+    border-bottom: 5px solid #cbd2d8;
+}
