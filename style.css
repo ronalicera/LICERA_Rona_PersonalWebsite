@@ -144,3 +144,14 @@ th, td {
     border-top: 5px solid #f1f8fe;    
     border-bottom: 5px solid #cbd2d8;
 }
+table {  
+    margin-top: 50px;
+    align-content: flex-start;
+    border-spacing: 10px;
+    text-align:center;
+
+    margin-left: auto;
+    margin-right: auto;
+    
+  
+} 
