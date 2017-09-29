@@ -152,6 +152,10 @@ table {
 
     margin-left: auto;
     margin-right: auto;
-    
-  
+
 } 
+#profile{
+    color: white;
+    font-display: block;
+
+}
