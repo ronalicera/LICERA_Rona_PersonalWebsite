@@ -61,3 +61,12 @@ body{
     text-decoration: none;
     padding: 35px;
 }
+#attributes ul li{
+    list-style: none;
+    display: inline;
+    font-weight: bold;
+ 
+    font-family: cursive;
+    font-size: 2em;
+    padding: 5px;
+}
