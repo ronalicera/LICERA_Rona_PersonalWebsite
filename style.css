@@ -86,3 +86,6 @@ body{
     color: black;
     text-decoration: none;
 }
+#mail a:hover{
+    color: white;
+}
