@@ -115,3 +115,16 @@ body{
     color: white;
     margin-top: 10px;   
 }
+.factsChars{
+    font-family: inherit;
+    font-size: 1.05em;
+    color: white;
+    -webkit-column-count: 2;
+    -moz-column-count:2;
+    column-count: 2;
+    -webkit-column-gap: 40px;
+    -moz-column-gap:40px;
+    -webkit-column-rule: 1px solid lightblue;
+    -moz-column-rule: 1px solid lightblue;
+    column-rule: 1px solid lightblue;
+}
