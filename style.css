@@ -128,3 +128,7 @@ body{
     -moz-column-rule: 1px solid lightblue;
     column-rule: 1px solid lightblue;
 }
+p{
+    font-family: serif;
+    font-size: 120%;
+} 
